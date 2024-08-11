@@ -1,6 +1,5 @@
 
 import './App.css';
-import Card from './Components/Card';
 import FoodCategories from './Components/FoodCategories';
 import Footer from './Components/Footer';
 import Main from './Components/Main';
